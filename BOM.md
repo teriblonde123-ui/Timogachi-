@@ -14,7 +14,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [ESP 32](https://robu.in/product/38pin-cp2102-esp-32-wifibluetooth-development-board-with-type-c-usb-interface) | Main board of the project | 1 | $1.00 | $1.00 | [Robu](https://robu.in/product/38pin-cp2102-esp-32-wifibluetooth-development-board-with-type-c-usb-interface) |
 | **Parts subtotal** | — | — | — | **$1.00** | — |
-| **Tax & shipping** | — | — | — | **$16.00** | — |
-| **Total** | — | — | — | **$17.00** | — |
+| **Tax & shipping** | — | — | — | **$2.00** | — |
+| **Total** | — | — | — | **$3.00** | — |
 
-$13.00 left of the tier's funding.
+$27.00 left of the tier's funding.
