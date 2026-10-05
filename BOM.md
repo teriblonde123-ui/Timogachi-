@@ -23,7 +23,7 @@
 | [A magnified holder](https://robu.in/product/te-801-multi-function-led-magnifier-pcb-soldering-iron-stand-holder-table-magnifying-glass-35x-12x-w-2-led-light) | It holds the component which I want to solder and also magnified it | 1 | $5.00 | $5.00 | [Robu](https://robu.in/product/te-801-multi-function-led-magnifier-pcb-soldering-iron-stand-holder-table-magnifying-glass-35x-12x-w-2-led-light) |
 | [Male to female wires](https://robu.in/product/male-to-female-jumper-wires-40pcs-20cm) | Connect pins | 1 | $0.50 | $0.50 | [Robu](https://robu.in/product/male-to-female-jumper-wires-40pcs-20cm) |
 | **Parts subtotal** | — | — | — | **$22.65** | — |
-| **Tax & shipping** | — | — | — | **$2.00** | — |
-| **Total** | — | — | — | **$24.65** | — |
+| **Tax & shipping** | — | — | — | **$5.35** | — |
+| **Total** | — | — | — | **$28.00** | — |
 
-$5.35 left of the tier's funding.
+$2.00 left of the tier's funding.
