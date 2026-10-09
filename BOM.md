@@ -12,14 +12,10 @@
 
 | Part | What it's for | Qty | Unit | Total | Vendor |
 | --- | --- | --- | --- | --- | --- |
-| [Oled display](https://robu.in/product/0-96-inch-i2c-iic-oled-lcd-module-4pin-with-vcc-gnd-blue) | To show and display the face of timogachi | 1 | $2.20 | $2.20 | [Robu](https://robu.in/product/0-96-inch-i2c-iic-oled-lcd-module-4pin-with-vcc-gnd-blue) |
-| [Breadboard](https://robu.in/product/mb102-830-points-solderless-prototype-pcb-breadboard-high-quality) | Connect all the things | 1 | $1.00 | $1.00 | [Robu](https://robu.in/product/mb102-830-points-solderless-prototype-pcb-breadboard-high-quality) |
-| [Soldering iron](https://robu.in/product/noel-50w-soldering-iron) | To melt soldering wire | 1 | $5.10 | $5.10 | [Robu](https://robu.in/product/noel-50w-soldering-iron) |
-| [Flux](https://robu.in/product/noel-flux-soldering-paste-10g) | To help solder melt | 1 | $0.25 | $0.25 | [Robu](https://robu.in/product/noel-flux-soldering-paste-10g) |
 | [A magnified holder](https://robu.in/product/te-801-multi-function-led-magnifier-pcb-soldering-iron-stand-holder-table-magnifying-glass-35x-12x-w-2-led-light) | It holds the component which I want to solder and also magnified it | 1 | $5.00 | $5.00 | [Robu](https://robu.in/product/te-801-multi-function-led-magnifier-pcb-soldering-iron-stand-holder-table-magnifying-glass-35x-12x-w-2-led-light) |
 | [Male to female wires](https://robu.in/product/male-to-female-jumper-wires-40pcs-20cm) | Connect pins | 1 | $0.50 | $0.50 | [Robu](https://robu.in/product/male-to-female-jumper-wires-40pcs-20cm) |
-| **Parts subtotal** | — | — | — | **$14.05** | — |
+| **Parts subtotal** | — | — | — | **$5.50** | — |
 | **Tax & shipping** | — | — | — | **$2.00** | — |
-| **Total** | — | — | — | **$16.05** | — |
+| **Total** | — | — | — | **$7.50** | — |
 
-$13.95 left of the tier's funding.
+$22.50 left of the tier's funding.
