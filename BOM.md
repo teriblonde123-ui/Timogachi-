@@ -12,7 +12,6 @@
 
 | Part | What it's for | Qty | Unit | Total | Vendor |
 | --- | --- | --- | --- | --- | --- |
-| [ESP 32](https://robu.in/product/38pin-cp2102-esp-32-wifibluetooth-development-board-with-type-c-usb-interface) | Main board of the project | 1 | $5.00 | $5.00 | [Robu](https://robu.in/product/38pin-cp2102-esp-32-wifibluetooth-development-board-with-type-c-usb-interface) |
 | [Touch sensor](https://robu.in/product/ttp223-touch-key-module-2pcs) | For a touchscreen | 1 | $0.30 | $0.30 | [Robu](https://robu.in/product/ttp223-touch-key-module-2pcs) |
 | [Solder wire](https://robu.in/product/high-purity-solder-tube-with-tin-lead-alloy-o-0-8mm-14gm) | Connecting all components | 1 | $3.00 | $3.00 | [Robu](https://robu.in/product/high-purity-solder-tube-with-tin-lead-alloy-o-0-8mm-14gm) |
 | [Buzzer 5v](https://robu.in/product/5v-active-electromagnetic-buzzer-pack-of-5) | To make sounds | 1 | $0.30 | $0.30 | [Robu](https://robu.in/product/5v-active-electromagnetic-buzzer-pack-of-5) |
@@ -22,8 +21,8 @@
 | [Flux](https://robu.in/product/noel-flux-soldering-paste-10g) | To help solder melt | 1 | $0.25 | $0.25 | [Robu](https://robu.in/product/noel-flux-soldering-paste-10g) |
 | [A magnified holder](https://robu.in/product/te-801-multi-function-led-magnifier-pcb-soldering-iron-stand-holder-table-magnifying-glass-35x-12x-w-2-led-light) | It holds the component which I want to solder and also magnified it | 1 | $5.00 | $5.00 | [Robu](https://robu.in/product/te-801-multi-function-led-magnifier-pcb-soldering-iron-stand-holder-table-magnifying-glass-35x-12x-w-2-led-light) |
 | [Male to female wires](https://robu.in/product/male-to-female-jumper-wires-40pcs-20cm) | Connect pins | 1 | $0.50 | $0.50 | [Robu](https://robu.in/product/male-to-female-jumper-wires-40pcs-20cm) |
-| **Parts subtotal** | — | — | — | **$22.65** | — |
+| **Parts subtotal** | — | — | — | **$17.65** | — |
 | **Tax & shipping** | — | — | — | **$2.00** | — |
-| **Total** | — | — | — | **$24.65** | — |
+| **Total** | — | — | — | **$19.65** | — |
 
-$5.35 left of the tier's funding.
+$10.35 left of the tier's funding.
